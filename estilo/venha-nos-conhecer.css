@@ -1,0 +1,49 @@
+.venha-nos-conhecer {
+    font-family: var(--fonte2);
+    margin-top: 2em;
+    display: flex;
+    background-color: var(--corpreta);
+    width: 100vw;
+    padding: 2em;
+}
+
+.venha-nos-conhecer h3 {
+    font-size: 4em;
+    color: var(--cor5);
+}
+
+#imagem-loja {
+    width: 40rem;
+    margin: 1em;
+    border-radius: 2em;
+    box-shadow: 15px 10px 0px var(--cor5);
+}
+
+#conteudo-venha-nos-conhecer {
+    color: #fff;
+    margin: 1em 0 0 3em;
+    padding: 1em;
+}
+
+#conteudo-venha-nos-conhecer p {
+    width: 45rem;
+    font-family: var(--fonte);
+    font-size: 1.1em;
+    text-align: justify;
+    line-height: 1.5em;
+}
+
+#fundo {
+   margin-top: 5em;
+
+}
+
+#fundo a {
+    margin-right: 1em;
+}
+
+#endereco {
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}
